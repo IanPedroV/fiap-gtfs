@@ -1,0 +1,15 @@
+{
+    "agencies": [
+      {
+        "agency_key": "SPTRANS",
+        "path": "gtfs2.zip",
+        "exclude": [
+          "shapes"
+        ]
+      }
+    ],
+    "csvOptions": {
+      "skip_lines_with_error": true
+    },
+    "sqlitePath": "test"
+  }
